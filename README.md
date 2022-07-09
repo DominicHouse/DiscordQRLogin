@@ -1,7 +1,7 @@
 # Discord QR Code Login
 **Note. Only use this repository to study how it operates and how to prevent the social engineering technique that is currently being used on Discord to steal accounts.**
 
-[![Discord](./images/discord.png)](https://discord.gg/)
+[![Discord](./Images/Discord.PNG)](https://discord.gg/)
 
 <img src="https://img.shields.io/github/directory-file-count/DominicHouse/DiscordQRLogin"/> <img src="https://img.shields.io/github/repo-size/DominicHouse/DiscordQRLogin"/>
 <img src="https://img.shields.io/github/languages/code-size/DominicHouse/DiscordQRLogin"/>
