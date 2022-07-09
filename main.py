@@ -94,4 +94,4 @@ async def verify(ctx):
 
 
 
-client.run("OTk0MjYwMTQ5NzQ3MzE4ODI5.Gki-kx.boAFXaLnI8Gd1lHBEvSOsP8xEQ0wunrS7UzxcE")
+client.run("")
